@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 Israel B. A. Vaz
+Olá, meu nome é **Israel B. A. Vaz**. Sou estudante do **8º ano do Ensino Fundamental** em uma unidade militar em Goiás.
 
-<!--
-**israelvaz121/israelvaz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Comecei a aprender **Python** por curiosidade, mas acabei me interessando cada vez mais pelo mundo da **programação e da tecnologia**. Também gosto bastante de **Matemática** e já participei de diversas olimpíadas e competições, tanto nacionais quanto internacionais.
 
-Here are some ideas to get you started:
+Ao longo da minha trajetória escolar, conquistei algumas medalhas e reconhecimentos, entre eles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥉 **Medalha de Bronze na Olimpíada Canguru de Matemática – 2025**
+* 🥉 **Medalha Nacional de Bronze na OBMEP – 2025**
+* 🥈 **Medalha Regional de Prata na OBMEP – 2025**
+* 🥈 **2º lugar na Maratona de Programação da EFG Luís Rassi – 2025**
+* 🥇 **Medalha de Ouro na JINCOM – 2025**
+* 🥈 **Medalha de Prata na JINCOM – 2024**
+* 🏅 **Alamar Legião de Honra – Mérito Intelectual (5 vezes)**
+
+Além das competições de Matemática e programação, também tenho interesse por **robótica**, área na qual venho desenvolvendo projetos e aprendendo mais sobre programação, lógica e resolução de problemas.
+
+Atualmente, também participo do **Sprint da Bering 2026** e do **Programa de Iniciação Científica Júnior (PIC Jr.)**, buscando ampliar meus conhecimentos em ciência, tecnologia e programação.
